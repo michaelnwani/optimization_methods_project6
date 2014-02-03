@@ -1,0 +1,3 @@
+Given a set of islands, a set of potential bridges, and a 'cost' for each potential bridge, your goal is to select the bridges to build such that it is possible to travel between as many islands as possible, and the cost of the bridges is minimized.
+
+We created functions to allow travel between as many pairs of islands as possible, and which do not create cycles. We also calculated the edge weights of our traversals.
